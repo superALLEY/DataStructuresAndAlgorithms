@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667935304 source:d:\asd1\puissance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

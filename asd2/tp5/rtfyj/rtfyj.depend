@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1682845400 source:c:\users\moham\onedrive\bureau\asd2\tp5\rtfyj\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<windows.h>
+	<dos.h>
+	<time.h>
+	<conio.h>
+
